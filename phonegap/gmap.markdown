@@ -16,3 +16,11 @@ C:\test\HelloMap\platforms\android> keytool -list -v -keystore "%USERPROFILE%\.a
 ```
 
 https://github.com/wf9a5m75/phonegap-googlemaps-plugin
+
+
+
+add plugin
+```ruby
+
+C:\test\HelloMap> cordova plugin add plugin.google.maps --variable API_KEY_FOR_ANDROID="YOUR_API_KEY_IS_HERE"
+```
